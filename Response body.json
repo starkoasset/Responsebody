@@ -1,0 +1,24 @@
+{
+  "type": 3,
+  "id": "FsxqcBTJmyLAtu4wY4dThd1Jc27BpeZo9ShLYCsNbFtt",
+  "fee": 100000000,
+  "feeAssetId": null,
+  "timestamp": 1686051354013,
+  "version": 2,
+  "sender": "3PM2gqiJihJaycaWs1MLNydJb2V9rZy8pey",
+  "senderPublicKey": "5iXXqzADX8XTjGmQ6XiM6VKV3Wf2pMJ1GpWKqQpK56DJ",
+  "proofs": [
+    "5aW3GEhj99yUVer1ji3YJ35oW8ywScvwUriNPFsDsaLuSCsWzUEiX2hEaULE5XYk4hyAbYWBw9JSCmsgrHnnDRZX"
+  ],
+  "assetId": "FsxqcBTJmyLAtu4wY4dThd1Jc27BpeZo9ShLYCsNbFtt",
+  "name": "STARKO",
+  "quantity": 3500000000,
+  "reissuable": true,
+  "decimals": 8,
+  "description": "STARLET Asset Community Indonesia Tbk. ",
+  "script": null,
+  "chainId": 87,
+  "height": 3676317,
+  "applicationStatus": "succeeded",
+  "spentComplexity": 0
+}
